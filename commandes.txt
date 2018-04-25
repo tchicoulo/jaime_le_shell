@@ -1,0 +1,4 @@
+mkdir : créer un répertoire
+touch : créer un fichier
+cp : copier un fichier/répertoire.
+mv : déplacer un fichier/répertoire
